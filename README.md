@@ -4,7 +4,7 @@ This project compares several weight initialization methods on a deep learning m
 
 ### ResNet-50 default initialization
 ### Zero initialization
-### Random initialization
+### Random initialization (Normal initialization)
 ### LeCun initialization
 ### Xavier initialization (Glorot initialization)
 ### Kaiming initialization (He initialization)
