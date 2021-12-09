@@ -1,1 +1,1 @@
-# weight-Initialization-method-using-monte-carlo-simulation
+# Novel Neural Network weight Initialization method using Monte Carlo Method
